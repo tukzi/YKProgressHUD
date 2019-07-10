@@ -1,0 +1,16 @@
+PODS:
+  - YKProgressHUD (1.0.0)
+
+DEPENDENCIES:
+  - YKProgressHUD (from `../`)
+
+EXTERNAL SOURCES:
+  YKProgressHUD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YKProgressHUD: 9880272c25998e03ad3220f4a838a8172eae92b7
+
+PODFILE CHECKSUM: c2d8c80f7698f870a720cc246597ff7731edcb0d
+
+COCOAPODS: 1.5.3

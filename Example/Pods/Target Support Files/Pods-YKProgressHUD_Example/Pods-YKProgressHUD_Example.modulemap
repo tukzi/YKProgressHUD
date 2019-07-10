@@ -1,0 +1,6 @@
+framework module Pods_YKProgressHUD_Example {
+  umbrella header "Pods-YKProgressHUD_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

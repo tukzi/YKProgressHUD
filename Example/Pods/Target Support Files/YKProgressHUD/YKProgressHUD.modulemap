@@ -1,0 +1,6 @@
+framework module YKProgressHUD {
+  umbrella header "YKProgressHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}

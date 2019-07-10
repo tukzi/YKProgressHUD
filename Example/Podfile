@@ -3,9 +3,4 @@ use_frameworks!
 target 'YKProgressHUD_Example' do
   pod 'YKProgressHUD', :path => '../'
 
-  target 'YKProgressHUD_Tests' do
-    inherit! :search_paths
-
-    pod 'FBSnapshotTestCase' , '~> 2.1.4'
-  end
 end
