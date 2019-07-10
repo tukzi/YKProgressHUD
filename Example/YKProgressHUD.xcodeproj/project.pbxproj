@@ -194,21 +194,17 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-YKProgressHUD_Example/Pods-YKProgressHUD_Example-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-YKProgressHUD_Example/Pods-YKProgressHUD_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/YKProgressHUD/YKProgressHUD.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YKProgressHUD.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-YKProgressHUD_Example/Pods-YKProgressHUD_Example-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-YKProgressHUD_Example/Pods-YKProgressHUD_Example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		E8A30E3AE08A51D744524D4D /* [CP] Check Pods Manifest.lock */ = {

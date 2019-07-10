@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YKProgressHUD'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'App容易使用的HUD'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 YKProgressHUD 是一个在 iOS App 上极易于使用的 HUD。主要用于显示加载、进度、情景信息、Toast。
                        DESC
 
-  s.homepage         = 'https://github.com/YKProgressHUD'
+  s.homepage         = 'https://github.com/tukzi/YKProgressHUD'
 
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'hesong_ios@163.com' => 'hesong_ios@163.com' }
-  s.source           = { :git => 'https://github.com/hesong_ios@163.com/YKProgressHUD.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/tukzi/YKProgressHUD', :tag => s.version.to_s }
 
 
   s.ios.deployment_target = '8.0'
