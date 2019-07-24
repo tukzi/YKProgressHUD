@@ -11,7 +11,7 @@ import UIKit
 /// YKProgressHUD 全局配置
 final class YKProgressHUDConfig {
     static let margin: CGFloat = 20
-    static var maskStyle: MaskStyle = .visible
+    static var maskStyle: MaskStyle = .hide
     static var animationShowStyle: AnimationShowStyle = .fade
     static var maskBackgroundColor: UIColor = .black
     static var foregroundColor: UIColor = .white

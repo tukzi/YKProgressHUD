@@ -19,10 +19,12 @@ typealias HUDType = YKProgressHUDType
 
 /// 加载动画样式
 public enum YKProgressHUDAnimationStyle {
-    /// 圆圈
-    case circle
+    
     /// 系统样式（菊花）
     case system
+    /// 圆圈
+    case circle
+    
 }
 typealias AnimationStyle = YKProgressHUDAnimationStyle
 
